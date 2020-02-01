@@ -1,0 +1,208 @@
+.card {
+    display: flex;
+}
+
+.load {
+    align-content: center;
+    padding: 50px;
+}
+
+.container-fluid {
+    margin-left: auto;
+    padding: 50px;
+}
+
+.card img {
+    background-image: cover;
+}
+
+.caseStudies {
+    padding: 50px;
+    margin: 50px;
+}
+
+.sectionHeading {
+    text-align: center !important;
+}
+
+.content {
+    padding: 50px;
+}
+
+.navbar-nav {
+    text-align: center !important;
+}
+
+.cardContainer {
+    text-align: center;
+}
+
+.display-4 {
+    font-family: 'Courgette', cursive;
+}
+
+.titleCase navbar {
+    align-items: center;
+}
+
+.contentt {
+    display: flex
+}
+
+ .jumbotron {
+    text-align: center;
+    margin-left: -80px;
+}
+
+.btn-secondary {
+    background-color:rgb(179, 179, 179)
+}
+
+.contentAbout, .contentWho {
+    text-align: center;
+}
+
+.contentWho {
+    font-family: 'Courgette', cursive;
+}
+
+.contentAbout {
+    color: lightgray;
+}
+
+
+
+.col-8 {
+    text-align: right;
+}   
+
+.myPic img {
+    margin-left: auto;
+}
+
+h3 {
+    margin-top: 10px;
+    margin-left: 180px;
+}
+
+.col-6 img {
+    width: 100%
+}
+
+.sectionHeading {
+    color:gray;
+    font-weight: lighter;
+}
+
+.col-6  {
+    text-align: right;
+}
+
+.load button {
+    margin: auto;
+}
+
+
+
+
+
+
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    margin-left: 17px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  
+  
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+    border-radius: 50%;
+    width: 70px;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+    border-radius: 50%;
+    width: 70px;
+  }
+  
+  
+  
+  
+  .fa-dribbble {
+    background: #ea4c89;
+    color: white;
+    border-radius: 50%;
+    width: 70px;
+  }
+
+  .b {
+    word-wrap: break-word;
+    width: 450px;
+    margin-left: auto;
+    text-align: right;
+  }
+
+  
+
+  .lead, .display-4 {
+      margin-left: 20px; 
+  }
+
+  .btn {
+      margin-left: 430px;
+      width: 200px;
+  }
+ 
+  .navbarDropdown { ???
+      margin-right: 200px;
+  }
+
+  .btn-primary {
+    color: #fff;
+    background-color: orange;
+    border-color: orange;
+}
+
+.loadLink {
+    text-decoration: underline;
+    text-decoration-color: gray;
+    color: gray !important;
+    width: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+
+}
+
+#navbarNav {
+    margin-left: 550px;
+}
+
+.main {
+    margin-left: 2px;
+}
+
+
+  
+  
+  @media only screen and (max-width: 1000px) {
+    
+
+  
+    
+  }
+  
+  
